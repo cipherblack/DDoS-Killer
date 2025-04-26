@@ -17,10 +17,12 @@ import (
     "github.com/goml/gobrain"
     "github.com/coreos/go-iptables"
 )
+```
+
 
 # Quick Start
 
-``` bash
+```bash
 git clone https://github.com/cipherblack/DDoS-Killer
 cd DDoS-Killer
 go build -o DDoS-Killer
